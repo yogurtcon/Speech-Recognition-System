@@ -14,6 +14,8 @@ predict.py 使用已保存的模型对某张图进行预测
 
 train.py 使用训练集对模型进行训练并保存最终模型
 
+准确率.png 模型在测试集上evaluate的分数
+
 # 感谢开源
 
 模型参考：https://github.com/nl8590687/ASRT_SpeechRecognition
